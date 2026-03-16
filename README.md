@@ -21,4 +21,4 @@ I enjoy **playing badminton** and exploring music in my free time 🎸.
 I enjoy learning new technologies and building systems that solve real-world problems. I also like exploring creative things such as music and design.
 
 ## 📸 My Image
-![My Image](your-image-file.jpg)
+![My Image](my-image.jpeg)
