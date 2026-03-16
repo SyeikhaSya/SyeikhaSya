@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I am SYEIKHA SYAFURA AL-ZAHRA BINTI ZAHARI
 
-<!--
-**SyeikhaSya/SyeikhaSya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Software Engineering student interested in building useful and meaningful software systems.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 💻 Passionate about software development and system architecture
+- 📚 Currently learning more about **Software Maintenance and Evolution**
+- 🔧 Interested in **Full Stack Development, Databases, and System Integration**
+- 🌱 Always trying to improve my coding and problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Expectations for This Course
+I hope to learn modern techniques for maintaining and evolving software systems, especially how developers handle legacy systems and improve existing applications efficiently.
+
+## 🎵 Fun Fact
+I enjoy **playing badminton** and exploring music in my free time 🎸.
+
+## 🛠️ Technologies & Tools
+- Programming: C#, SQL, Java, PHP, Phython
+
+## 🌟 A Little More About Me
+I enjoy learning new technologies and building systems that solve real-world problems. I also like exploring creative things such as music and design.
+
+## 📸 My Image
+![My Image](your-image-file.jpg)
